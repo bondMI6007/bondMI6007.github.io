@@ -1,0 +1,22 @@
+.home-hero {
+    height: 400px;
+
+    h1 {
+        color: $primary-white;
+        display: block;
+        font-size: 5rem;
+        transform: rotate(-90deg);
+        position: absolute;
+        top: 168px;
+        left: -146px;
+    }
+
+    p {
+        color: $primary-white;
+        font-size: 2rem;
+        line-height: 2.5rem;
+        padding-left: 16%;
+        padding-right: 16%;
+    }
+
+}
